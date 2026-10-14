@@ -1,10 +1,14 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1028,50:343A80,100:00D9FF&height=200&section=header&text=Haripriya%20K&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=CSE%20%7C%20AI%20%26%20ML&descAlignY=60&descSize=20" width="100%" alt="Animated profile banner"/>
+
+![Haripriya profile banner](https://capsule-render.vercel.app/api?type=waving&color=0:343A80,100:00D9FF&height=180&section=header&text=Haripriya%20K&fontSize=45&fontColor=FFFFFF&animation=fadeIn)
+
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Exploring+AI+%26+Machine+Learning;Building+IoT+Projects;Learning+and+Growing+Every+Day" alt="Animated typing introduction"/>
+
+![Typing introduction](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;AI+%26+Machine+Learning;Building+IoT+Projects)
+
 </a>
 
 <p>
